@@ -45,8 +45,10 @@ p{
     border-radius:100px;
 }
 #littlePic{
+    margin:5px;
     width:35px;
     height:35px;
+    border-radius: 5px
 }
 
 #nowMe{
